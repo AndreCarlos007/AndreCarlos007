@@ -15,7 +15,7 @@
     <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,adonis,mysql,mongodb,docker,prisma,git,linkedin&perline=5" />
   </a>
-    <img align="" width="280" height="160" src="https://media.tenor.com/wxaQ78WDEREAAAAM/guts-berserk-banner.gif"  />
+    <img align="" width="260" height="160" src="https://media.tenor.com/wxaQ78WDEREAAAAM/guts-berserk-banner.gif"  />
   </div>
   
 ###
