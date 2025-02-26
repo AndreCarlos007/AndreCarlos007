@@ -18,6 +18,13 @@
   
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreCarlos007/AndreCarlos007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreCarlos007/AndreCarlos007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AndreCarlos007/AndreCarlos007/output/github-snake.svg" />
+</picture>
+
+###
 <div align="center">
 <img width=70% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=120&section=footer&fontColor=6474B9&animation=twinkling&fontAlignY=65"/>
 </div>
